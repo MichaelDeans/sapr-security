@@ -23,7 +23,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Dispatch - Primary",
+            "name": "Statewide Comms",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]Dispatch - Primary[/color]",
